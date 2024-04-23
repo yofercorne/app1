@@ -9,3 +9,7 @@
      build: ./websimple
      ports:
        - 8080:80
+   webonita:
+     build: ./salient
+     ports:
+       - 8081:80
